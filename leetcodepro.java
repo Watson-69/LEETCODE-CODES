@@ -28,4 +28,7 @@ public class leetcodepro {
         return -1;
     }
 } // approach 1
+
+
+// approach 2 was linear approach
 }
